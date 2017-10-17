@@ -1,0 +1,1 @@
+document.location.reload(); //hack manier reloaden !
